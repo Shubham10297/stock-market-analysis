@@ -15,7 +15,7 @@
     "broker_url":"redis://localhost:6379/0",
     "dashboard_ports":[8050],
     "username":"root",
-    "password":"shubhang",
+    "password":"####",
     "host":"localhost",
     "database":"trading",
     "finnhub_api_key":"######"
