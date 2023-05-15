@@ -1,0 +1,22 @@
+{
+    "tickers":["AAPL","TSLA","SPY","SPX"],
+    "tickers_which_are_indices":["SPX"],
+    "put_color":"red",
+    "call_color":"green",
+    "total_color":"blue",
+    "page_color":"#000000",
+    "graph_background_color":"#000000",
+    "graph_line_color":"#FFFFFF",
+    "graph_grid_color":"#FFFFFF",
+    "graph_tick_color":"#FFFFFF",
+    "graph_text_color":"#FFFFFF",
+    "line_graph_width":2,
+    "polygon_api_key":"9657oYPeyGB03lEMWMoxnTu98eS7RV9c",
+    "broker_url":"redis://localhost:6379/0",
+    "dashboard_ports":[8050],
+    "username":"root",
+    "password":"shubhang",
+    "host":"localhost",
+    "database":"trading",
+    "finnhub_api_key":"ch1arbhr01qn6tg71ijgch1arbhr01qn6tg71ik0"
+}

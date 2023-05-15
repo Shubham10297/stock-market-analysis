@@ -1,0 +1,7 @@
+celery
+aiohttp
+dash
+dash-bootstrap-components
+db-sqlite3
+polygon
+mysql
